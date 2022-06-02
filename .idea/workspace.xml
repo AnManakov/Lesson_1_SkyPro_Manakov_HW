@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ee245ce-48da-4cfc-802f-d0c605eb813d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_1_SkyPro_Manakov_HW.iml" afterDir="false" />
-    </list>
+    <list default="true" id="6ee245ce-48da-4cfc-802f-d0c605eb813d" name="Changes" comment="Мой первый коммит" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,6 +29,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Anatoly Manakov/IdeaProjects/Lesson_1_SkyPro_Manakov_HW",
     "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
@@ -42,8 +41,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654168006106</updated>
-      <workItem from="1654168007512" duration="239000" />
+      <workItem from="1654168007512" duration="704000" />
     </task>
+    <task id="LOCAL-00001" summary="Мой первый коммит">
+      <created>1654168531511</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654168531511</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Мой первый коммит">
+      <created>1654168615728</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654168615728</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Мой первый коммит">
+      <created>1654168691765</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654168691765</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -59,5 +80,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Мой первый коммит" />
+    <option name="LAST_COMMIT_MESSAGE" value="Мой первый коммит" />
   </component>
 </project>
